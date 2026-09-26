@@ -1,5 +1,5 @@
 // Offline support for dobble-game — precaches every asset, network-first for the page itself.
-const CACHE = 'dobble-game-BZoFD3g4';
+const CACHE = 'dobble-game-CL7r8aqa';
 const ASSETS = [
   "/dobble-game/",
   "/dobble-game/index.html",
@@ -7,8 +7,8 @@ const ASSETS = [
   "/dobble-game/icon-192.png",
   "/dobble-game/icon-512.png",
   "/dobble-game/assets/dobble-hero-DzrfIdPL.png",
-  "/dobble-game/assets/index-B7JDY84b.js",
-  "/dobble-game/assets/index-BZoFD3g4.css"
+  "/dobble-game/assets/index-BZoFD3g4.css",
+  "/dobble-game/assets/index-CL7r8aqa.js"
 ];
 
 self.addEventListener('install', (event) => {
